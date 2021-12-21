@@ -1,0 +1,22 @@
+.Backstyle {
+    background-color: lightgray;
+    width: 75%;
+    height: 68px;
+    margin-left: 10%;    
+}
+
+.SideButtons {
+    background-color: rgb(151, 151, 151);
+    width: 5%;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.ToolBar {
+    display: flex;
+    flex-direction: row;
+}
+  
+  
